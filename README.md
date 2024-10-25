@@ -3,6 +3,15 @@
 # Grob-Planung
 Robin, Florian und Ich werden weiter am Godot game arbeiten, weil wir noch nicht zufrieden sind mit dem was wir haben. Wir werden aber ding die ganze Lern-Periode an dem Arbeiten. Sobald wir einen Mid Game haben werden wir eigene Projekte starten.
 
-# 25.10.2024
-- [ ] 
-- [ ]
+# Arbeitspakete für 25.10.2024
+
+ - [x] Bewegungs animation erstellen
+ - [x] Inventar Teil einfügen
+
+✍️ Heute konnten wir die Bewegungs Animation für alle Richtungen implementieren und auch den bereits geschriebenen Inventar Code in das Haupt Projekt einfügen.
+
+# Arbeitspakete für 01.11.2024
+- [ ] Gegner erstellen
+- [ ] Gegner bewegen sich in Richtung Spieler
+- [ ] Armor slots in Inventar funktional machen
+- [ ] Spielers HP programmieren
