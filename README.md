@@ -15,3 +15,12 @@ Robin, Florian und Ich werden weiter am Godot game arbeiten, weil wir noch nicht
 - [ ] Gegner bewegen sich in Richtung Spieler
 - [ ] Armor slots in Inventar funktional machen
 - [ ] Spielers HP programmieren
+
+✍️ Heute bin ich ziemlich unzufrieden mit meiner Arbeit. Ich war fast die ganze Zeit am gleichen Problem. Den Equipment im inventory System habe ich unterschätzt. 
+
+# Arbeitspakete für 08.11.2024
+
+- [ ] Mindestens einen WeaponSlot hinzufügen.
+- [ ] Collectable Coins + Coin amount in Inventory
+- [ ] es kommt mir noch etwas in den sinn 1
+- [ ] es kommt mir noch etwas in den sinn 2
