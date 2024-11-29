@@ -28,7 +28,9 @@ Robin, Florian und Ich werden weiter am Godot game arbeiten, weil wir noch nicht
 # Arbeitspakete für 15.11.2024
 
 - [ ] Collectable Coins + Coin amount
-- [ ] Ganz Simplen Design für die Equipment slots machen
+- [x] Ganz Simplen Design für die Equipment slots machen
 - [ ] Inventory UI fixen wenn in Fullscreen
 - [ ] idk yet
   
+# 29.11.2024
+Heute arbeiten Florian und Ich an der LB von M 346
