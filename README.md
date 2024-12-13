@@ -34,3 +34,6 @@ Robin, Florian und Ich werden weiter am Godot game arbeiten, weil wir noch nicht
   
 # 29.11.2024
 Heute arbeiten Florian und Ich an der LB von M 346
+
+# 13.12.2024
+Heute habe ich am Advent of Code gearbeitet. Ich schaffte den Tag 1 und Tag 2 zu lösen mithilfe von ChatGPT. 
